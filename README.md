@@ -1,2 +1,2 @@
-# timbuktu
-A personal library management system
+# Timbuktu digital library
+I'm frustrated with platforms and tools like Mendeley, Zotero, etc.  All I want is a way of managing a personal (and potentially shared) database of bibliographic references with associated pdfs (if I have them).  I want to be able to quickly filter by author, source, title, etc. Later on I might want to synchronize to a cloud/central server of some sort.  It would also be nice to be able to add text notes to individual entries.  I'd like to explore annotating full text (pdf mostly) content as well, perhaps through something like hypothes.is.
